@@ -1,0 +1,12 @@
+algoritmo two_vars;
+
+variáveis
+	nome: literal;
+	idade: literal;
+fim-variáveis
+
+início
+	nome := "Fulano";
+	idade := "99";
+	imprima("Olá ", nome, ". Você tem a seguinte idade: ", idade);
+fim
