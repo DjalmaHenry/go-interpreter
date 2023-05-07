@@ -52,5 +52,3 @@ A VM é "stack based", e este modelo foi escolhido por ser de fácil implementa�
 * Estruturas de repetição
 * Tipos numéricos, lógicos, matrizes
 * Definição de funções
-* ...
-
