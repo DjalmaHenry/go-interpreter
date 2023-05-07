@@ -1,6 +1,6 @@
 # go-interpreter
 
-Um interpretador para a linguagem G-Portugol, escrito em Golang !!
+Um interpretador para a linguagem G-Portugol, feito em Golang !!
 
 A linguagem G-Portugol foi criada pelo Thiago Silva, tendo por finalidade o ensino de algoritmos. Maiores informações sobre a linguagem podem ser obtidas [aqui](http://inf.ufes.br/~mberger/Disciplinas/2015_2/Compiladores/manualGPortugol.pdf).
 
