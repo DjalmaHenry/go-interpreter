@@ -1,4 +1,4 @@
-# gogpt-interpreter
+# go-interpreter
 
 Um interpretador para a linguagem G-Portugol, escrito em Golang :-)
 
