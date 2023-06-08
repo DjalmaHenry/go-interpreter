@@ -7,17 +7,17 @@ import (
 )
 
 const (
-	// NOP opcode
+	// NOP (No Operation)
 	NOP int = iota
-	// LDC opcode
+	// LDC (Load Constant)
 	LDC
-	// ADD opcode
+	// ADD (Addition)
 	ADD
-	// CALL opcode
+	// CALL (Call Function)
 	CALL
-	// STV opcode
+	// STV (Store Value)
 	STV
-	// LDV opcode
+	// LDV (Load Value)
 	LDV
 )
 
